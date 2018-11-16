@@ -1,7 +1,6 @@
 {
   "name": "test-intro",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -11,6 +10,18 @@
   "license": "ISC",
   "devDependencies": {
     "chai": "^3.5.0",
-    "mocha": "^4.0.1"
-  }
+    "mocha": "^4.1.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkful-ei26/node-intro-to-unit-testing-scott-sam.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thinkful-ei26/node-intro-to-unit-testing-scott-sam/issues"
+  },
+  "homepage": "https://github.com/thinkful-ei26/node-intro-to-unit-testing-scott-sam#readme",
+  "description": ""
 }
